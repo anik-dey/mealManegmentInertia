@@ -8,6 +8,7 @@ const routes = [
         name: 'companies.index',
         component: CompaniesIndex
     }
+
 ];
 
 export default createRouter({
